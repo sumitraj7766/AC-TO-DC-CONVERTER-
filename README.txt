@@ -9,7 +9,7 @@ A custom AC to DC Converter PCB designed in KiCad.
 ## Circuit Schematic
 
 <p align="center">
-  <img src="images/schematic.png" width="900">
+  <img src="output pages/AC TO DC.png" width="900">
 </p>
 
 ---
@@ -17,7 +17,7 @@ A custom AC to DC Converter PCB designed in KiCad.
 ## PCB Routing Layout
 
 <p align="center">
-  <img src="images/pcb_layout.png" width="900">
+  <img src="output pages/Ac to Dc schematic .png" width="900">
 </p>
 
 ---
@@ -25,7 +25,7 @@ A custom AC to DC Converter PCB designed in KiCad.
 ## 3D PCB View
 
 <p align="center">
-  <img src="images/pcb_3d.png" width="900">
+  <img src=output pages/ac to dc 3d(1).png">
 </p>
 
 ---
