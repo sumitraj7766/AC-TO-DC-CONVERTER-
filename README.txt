@@ -9,7 +9,7 @@ A custom AC to DC Converter PCB designed in KiCad.
 ## Circuit Schematic
 
 <p align="center">
-  <img src="output pages/AC TO DC.png" width="900">
+  <img src="output%20pages/AC%20TO%20DC.png" width="900">
 </p>
 
 ---
@@ -17,7 +17,7 @@ A custom AC to DC Converter PCB designed in KiCad.
 ## PCB Routing Layout
 
 <p align="center">
-  <img src="output pages/Ac to Dc schematic .png" width="900">
+  <img src="output%20pages/Ac%20to%20Dc%20schematic%20.png" width="900">
 </p>
 
 ---
@@ -25,29 +25,25 @@ A custom AC to DC Converter PCB designed in KiCad.
 ## 3D PCB View
 
 <p align="center">
-  <img src=output pages/ac to dc 3d(1).png">
+  <img src="output%20pages/ac%20to%20dc%203d(1).png" width="900">
 </p>
 
 ---
 
 # 🔧 Features
 
-✅ Bridge Rectifier using 1N4007
-
-✅ AC to DC Conversion
-
-✅ LED Power Indicator
-
-✅ Capacitor Filtering
-
-✅ Ready for Manufacturing
+✅ Bridge Rectifier using 1N4007  
+✅ AC to DC Conversion  
+✅ LED Power Indicator  
+✅ Capacitor Filtering  
+✅ Ready for Manufacturing  
 
 ---
 
 # 🛠 Components Used
 
 | Component | Value |
-|------------|---------|
+|----------|-------|
 | D1-D4 | 1N4007 |
 | C1 | 1000µF |
 | R1 | 10K |
@@ -81,10 +77,8 @@ A custom AC to DC Converter PCB designed in KiCad.
 
 # 👨‍💻 Author
 
-**Sumit Kumar**
-
-B.Tech Electrical & Electronics Engineering
-
-LNJPIT, Chapra
+**Sumit Kumar**  
+B.Tech Electrical & Electronics Engineering  
+LNJPIT, Chapra  
 
 GitHub: https://github.com/sumitraj7766
